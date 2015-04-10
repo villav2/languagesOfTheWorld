@@ -12,3 +12,7 @@ Navaho
 Finnish
 Russian
 Dothraki
+
+
+
+German
